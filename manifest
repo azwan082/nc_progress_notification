@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 2.0
+apiversion: 2
+description: Android Progress Notification
+author: azwan082
+license: Apache License 2.0
+copyright: Copyright (c) 2014 by noodlecode.net
+
+
+# these should not be edited
+name: nc_progress_notification
+moduleid: nc.progressnotification
+guid: 2bfd875a-a22e-46c8-86ef-bdef00c72caf
+platform: android
+minsdk: 3.2.3.GA
